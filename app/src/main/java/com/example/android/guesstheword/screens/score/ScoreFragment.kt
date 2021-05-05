@@ -27,9 +27,6 @@ import androidx.navigation.fragment.navArgs
 import com.example.android.guesstheword.R
 import com.example.android.guesstheword.databinding.ScoreFragmentBinding
 
-/**
- * Fragment where the final score is shown, after the game is over
- */
 class ScoreFragment : Fragment() {
 
     override fun onCreateView(
